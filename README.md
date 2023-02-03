@@ -32,5 +32,7 @@ Esse projeto foi desenvolvido com as segintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://nampao.github.io/nlw-setup)
+
 
 
